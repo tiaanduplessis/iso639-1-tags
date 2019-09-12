@@ -1,9 +1,9 @@
 
-# ISO639-1-tags
-[![package version](https://img.shields.io/npm/v/ISO639-1-tags.svg?style=flat-square)](https://npmjs.org/package/ISO639-1-tags)
-[![package downloads](https://img.shields.io/npm/dm/ISO639-1-tags.svg?style=flat-square)](https://npmjs.org/package/ISO639-1-tags)
+# iso639-1-tags
+[![package version](https://img.shields.io/npm/v/iso639-1-tags.svg?style=flat-square)](https://npmjs.org/package/iso639-1-tags)
+[![package downloads](https://img.shields.io/npm/dm/iso639-1-tags.svg?style=flat-square)](https://npmjs.org/package/iso639-1-tags)
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
-[![package license](https://img.shields.io/npm/l/ISO639-1-tags.svg?style=flat-square)](https://npmjs.org/package/ISO639-1-tags)
+[![package license](https://img.shields.io/npm/l/iso639-1-tags.svg?style=flat-square)](https://npmjs.org/package/iso639-1-tags)
 [![make a pull request](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 > List of language tags according to ISO 639-1
@@ -46,9 +46,9 @@ console.log(ISO6391)
 This project uses [node](https://nodejs.org) and [npm](https://www.npmjs.com).
 
 ```sh
-$ npm install ISO639-1-tags
+$ npm install iso639-1-tags
 $ # OR
-$ yarn add ISO639-1-tags
+$ yarn add iso639-1-tags
 ```
 
 ## Contribute

@@ -1,5 +1,5 @@
 {
-  "name": "ISO639-1-tags",
+  "name": "iso639-1-tags",
   "description": "List of language tags according to ISO 639-1",
   "version": "1.0.0",
   "main": "index.js",
